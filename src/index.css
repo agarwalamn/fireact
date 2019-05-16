@@ -7,7 +7,47 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.card{
+  border:2px solid black;
+  padding: 30px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top:2%;
+  border-radius: 10px;
+}
+.post{
+  width: 100%;
+  position: relative;
+}
+.post img{
+  width: 100%;
+  border-radius:5px;
+}
+.post p{
+  font-family: cursive;
+}
+.userHead img{
+  width:35px;
+  border-radius:50%;
+  vertical-align: top;
+}
+.username{
+  padding: 30px;
+  margin-top:-90px;
+  vertical-align: top;
+  font-size: 30px;
+}
+.footer span{
+  text-align: center;
+  vertical-align: top;
+  font-size: 30px;
+  padding:40px;
+  padding-left: 35px;
+}
+.footer{
+  padding: 10px;
+  
+}
+.footer img{
+  width: 40px;
 }

@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as firebase from 'firebase';
 const firebaseConfig = {
-    apiKey: "AIzaSyDf8gylgvGgh3zN4h0A6saTJt43cwPI3TY",
-    authDomain: "reactpractice-58fce.firebaseapp.com",
-    databaseURL: "https://reactpractice-58fce.firebaseio.com",
-    projectId: "reactpractice-58fce",
-    storageBucket: "reactpractice-58fce.appspot.com",
-    messagingSenderId: "622708865896",
-    appId: "1:622708865896:web:d34bc01e626213d5"
+    apiKey: "xxxx",
+    authDomain: "xxxx",
+    databaseURL: "xxx",
+    projectId: "xxxxx",
+    storageBucket: "xxxx",
+    messagingSenderId: "6xxxx",
+    appId: "xxxxx"
 };
 
 function Username(props) {
